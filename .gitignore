@@ -8,3 +8,4 @@ data/
 docs/
 *.bak
 /publish-j1dev.sh
+output/
